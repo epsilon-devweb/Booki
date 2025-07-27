@@ -1,8 +1,8 @@
-# Troisième projet du parcours "Intégrateur web" chez OpenClassroom.
+# Deuxième projet du parcours "Intégrateur web" chez OpenClassrooms.
 L'objectif étant d'intégrer notre première page web avec HTML5 & CSS3.
 
 # Lien vers GitPages :
-[Booki](https://unknxwn-dev.github.io/Booki/)
+[Booki](https://epsilon-devweb.github.io/Booki/)
 
 # Ressources mises à disposition :
 Une base de code  
